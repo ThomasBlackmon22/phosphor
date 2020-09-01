@@ -1,4 +1,4 @@
-# PhosphorJS
+# PhosphorescentJS
 
 This project is archived. @sccolbert has retired from OSS development and no further public updates will be made.
 
