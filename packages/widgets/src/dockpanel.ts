@@ -843,7 +843,7 @@ class DockPanel extends Widget {
 
     // Enforce necessary tab bar behavior.
     // TODO do we really want to enforce *all* of these?
-    tabBar.tabsMovable = true;
+    //tabBar.tabsMovable = true;
     tabBar.allowDeselect = false;
     tabBar.removeBehavior = 'select-previous-tab';
     tabBar.insertBehavior = 'select-tab-if-needed';
